@@ -1,0 +1,3 @@
+from ubuntu
+  volume /temp
+  copy target/demo*.jar app.jar
